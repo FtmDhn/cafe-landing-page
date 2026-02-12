@@ -7,7 +7,7 @@ This project focuses on layout structure, visual hierarchy, and clean UI design.
 
 ### 🔗 Live Demo
 
-[View Live Demo](https://ftmdhn.github.io/pure-css-hero-slider/)
+[View Live Demo](https://ftmdhn.github.io/cafe-landing-page/)
 
 <br>
 
