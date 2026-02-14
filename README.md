@@ -5,6 +5,15 @@ This project focuses on layout structure, visual hierarchy, and clean UI design.
 
 <br>
 
+**Latest Update: Full Responsiveness**  
+Originally built as a desktop-only concept, this project has been recently refactored to be fully responsive.
+
+- Improved layout adaptability using CSS Flexbox.
+- Optimized typography and spacing for seamless viewing on mobile and tablet devices.
+- Enhanced navigation for touch interfaces.
+
+<br>
+
 ### 🔗 Live Demo
 
 [View Live Demo](https://ftmdhn.github.io/cafe-landing-page/)
@@ -15,8 +24,7 @@ This project focuses on layout structure, visual hierarchy, and clean UI design.
 
  HTML5  
  CSS3  
- Flexbox   
- Custom styling (No frameworks)  
+ Responsive Web Design (RWD)  
 
  <div>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML" />
@@ -29,7 +37,7 @@ This project focuses on layout structure, visual hierarchy, and clean UI design.
 
 <br>
 
-**💻 Desctop view** <br>
+**💻 Desctop View** <br>
 
 <img width="1887" height="805" alt="cafe-1" src="https://github.com/user-attachments/assets/53270e9f-2d2c-4897-8779-ea2e86f358f7" />
 
@@ -41,7 +49,7 @@ This project focuses on layout structure, visual hierarchy, and clean UI design.
 
 <br><br>
 
-**📱 Mobile view** <br>
+**📱 Mobile View (Newly Added!)** <br>
 
 <p align="center">
   <img width="250" height="600" alt="cafe-mobile" src="https://github.com/user-attachments/assets/dca15640-b406-4cc8-b0c5-88ce1a0fef29" />
@@ -57,4 +65,5 @@ This project focuses on layout structure, visual hierarchy, and clean UI design.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://ir.linkedin.com/in/fatemeh-dehghani-060973314?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fatemeh-dehghani-060973314/
+)  [![Instagram](https://img.shields.io/badge/Instagram-Follow-red)](https://www.instagram.com/ftm.dehgni/)
